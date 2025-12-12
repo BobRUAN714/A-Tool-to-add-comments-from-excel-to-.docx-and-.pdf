@@ -13,7 +13,7 @@
 使用步骤
 
 1. 安装依赖库: pip install -r requirements.txt
-2. 确保 examples 文件夹里有 comments.xlsx 和作业文件。
+2. 确保 homeworks 文件夹里有 comments.xlsx 和作业文件。
 3. 运行 auto_comment.py。
 4. 去 processed 文件夹查看结果。
 
