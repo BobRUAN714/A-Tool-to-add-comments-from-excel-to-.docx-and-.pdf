@@ -11,7 +11,7 @@
   
 使用步骤
 1. 安装依赖库: pip install -r requirements.txt
-2. 确保 examples 文件夹里有 comments.xlsx 和作业文件。
+2. 确保 homeworks 文件夹里有 comments.xlsx 和作业文件。
 3. 运行 auto_comment.py。
 4. 去 processed 文件夹查看结果。
 
@@ -63,3 +63,4 @@ Word 的修改集中在 process_word 函数中：
     颜色与字号
         颜色：RGBColor(255, 0, 0) 为红色，(0, 0, 0) 为黑色，三值对应 R/G/B。
         字号：Pt(12) 中的数字即为磅值，越大字越大。
+
